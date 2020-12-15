@@ -1,5 +1,5 @@
 {
-    "name": "gghughunishvili/entrust",
+    "name": "kohone/entrust",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel/Lumen 6",
     "keywords": ["laravel", "lumen","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
@@ -23,7 +23,11 @@
         {
             "name": "Giorgi Ghughunishvili",
             "email": "gghughunishvili@gmail.com"
-        }
+        },
+        {
+            "name": "Maks Kohone",
+            "email": "m.kohone@gmail.com"
+        },
     ],
     "require": {
         "php": ">=7.2",
