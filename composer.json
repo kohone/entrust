@@ -27,7 +27,7 @@
         {
             "name": "Maks Kohone",
             "email": "m.kohone@gmail.com"
-        },
+        }
     ],
     "require": {
         "php": ">=7.2",
